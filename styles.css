@@ -52,7 +52,7 @@ button:focus {
 
 .op{
   box-shadow: 8px 18px 8px rgba(0, 0, 0, 0.2);
-  width: 380px; /*largura do formulario */
+  width: 290px; /*largura do formulario */
   padding: 15px 30px;
   background: #006779;
   margin: auto; /* deixa o formulario no meio */
@@ -72,7 +72,7 @@ h1{
 }
 .ap{
   box-shadow: 20px 20px 8px rgba(0, 0, 0, 0.2);
-  width: 380px; /*largura do formulario */
+  width: 290px; /*largura do formulario */
   padding: 15px 30px;
   background: #2164f3;
   margin: auto; /* deixa o formulario no meio */
